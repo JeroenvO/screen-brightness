@@ -1,0 +1,6 @@
+e:\documents\visual studio 2012\Projects\BrightnessConsoleJvO\BrightnessConsoleJvO\bin\Release\BrightnessConsoleJvO.exe.config
+e:\documents\visual studio 2012\Projects\BrightnessConsoleJvO\BrightnessConsoleJvO\bin\Release\BrightnessConsoleJvO.exe
+e:\documents\visual studio 2012\Projects\BrightnessConsoleJvO\BrightnessConsoleJvO\bin\Release\BrightnessConsoleJvO.pdb
+e:\documents\visual studio 2012\Projects\BrightnessConsoleJvO\BrightnessConsoleJvO\obj\Release\BrightnessConsoleJvO.exe
+e:\documents\visual studio 2012\Projects\BrightnessConsoleJvO\BrightnessConsoleJvO\obj\Release\BrightnessConsoleJvO.pdb
+e:\documents\visual studio 2012\Projects\BrightnessConsoleJvO\BrightnessConsoleJvO\obj\Release\BrightnessConsoleJvO.csprojResolveAssemblyReference.cache
